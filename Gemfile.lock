@@ -1,0 +1,20 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    awesome_print (1.6.1)
+    createsend (4.1.0)
+      hashie (~> 3.0)
+      httparty (~> 0.10)
+      json (~> 1.0)
+    hashie (3.4.6)
+    httparty (0.14.0)
+      multi_xml (>= 0.5.2)
+    json (1.8.3)
+    multi_xml (0.5.5)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  awesome_print
+  createsend
