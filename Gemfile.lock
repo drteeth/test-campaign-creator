@@ -1,7 +1,8 @@
 GEM
-  remote: https://rubygems.org/
+  remote: http://rubygems.org/
   specs:
     awesome_print (1.6.1)
+    byebug (9.0.6)
     createsend (4.1.0)
       hashie (~> 3.0)
       httparty (~> 0.10)
@@ -17,4 +18,5 @@ PLATFORMS
 
 DEPENDENCIES
   awesome_print
+  byebug
   createsend

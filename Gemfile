@@ -1,7 +1,7 @@
 # frozen_string_literal: true
 # A sample Gemfile
-source "https://rubygems.org"
+source "http://rubygems.org"
 
-# gem "rails"
 gem 'createsend'
 gem 'awesome_print'
+gem 'byebug'
